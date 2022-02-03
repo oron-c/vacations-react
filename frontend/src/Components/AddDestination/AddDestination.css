@@ -1,0 +1,14 @@
+.AddDestination {
+    border-radius: 1;
+    border-style: solid;
+    border-color: blue;
+    min-width: auto;
+    text-align: center;
+    align-items: center;  
+    padding: 10px;  
+}
+
+.messageClass {
+    color: green;
+    font-weight: bold;
+}

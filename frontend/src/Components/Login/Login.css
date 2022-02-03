@@ -1,0 +1,21 @@
+body {
+    background-color: lightcyan;
+}
+    
+
+.Login {
+
+}
+
+.Login .LoginDiv {
+    border-radius: 1;
+    min-width: auto;
+    text-align: center;
+    align-items: center;  
+    padding: 10px;  
+}
+
+.errorClass {
+    color: red;
+    font-weight: bold;
+}

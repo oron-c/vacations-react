@@ -1,0 +1,25 @@
+.ManagementGraph  {
+    align-items: center;
+    padding: auto;
+    text-align: center;
+    border-radius: 5pt;
+    background-color: lightblue;
+    padding-bottom: 3em;
+    padding-top: 3em;
+}
+
+.VictoryContainer  {
+    margin: auto;
+    max-width: fit-content;
+    padding: auto;
+    align-self: center;
+    color: brown;
+    border-radius: 5pt;
+    border-style: solid;
+    border-color: blue;
+}
+
+.errorClass {
+    color: red;
+    font-weight: bold;
+}
